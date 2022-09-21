@@ -1,3 +1,3 @@
 # cs320-02-test
 
-Helpers: Taemour Zaidi, Tobin Chin, Drew, Minh
+Helpers: Taemour, Tobin, Drew, Minh
