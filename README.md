@@ -1,4 +1,3 @@
 # cs320-02-test
 
-Drew Guarnera
-Minh
+Helpers: Taemour Zaidi, Tobin Chin, Drew, Minh
